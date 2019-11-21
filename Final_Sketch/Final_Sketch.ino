@@ -6,6 +6,8 @@
    >> https://www.instructables.com/id/How-to-use-the-L293D-Motor-Driver-Arduino-Tutorial/
 */
 
+//Testing out GitHub PUSH
+
 //L293D
 //Motor 1
 const int motor1a  = 40; // pin 14 of L293

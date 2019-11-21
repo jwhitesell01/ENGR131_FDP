@@ -1,11 +1,11 @@
-//*
-void setupLED() {
+/*
+  void setupLED() {
   pinMode(75, OUTPUT); //red board led
-}
-void loopLED() {
+  }
+  void loopLED() {
   analogWrite(75, 63);
   delay(50);
   digitalWrite(75, LOW);
   delay(1950);
-}
-//*/
+  }
+  //*/
